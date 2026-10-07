@@ -142,7 +142,7 @@ SkyUI Full Vanilla Menus
 Перейдите в **Desktop Mode** и запустите:
 
 ```text
-Запустить_Skyrim_Deck_Setup.desktop
+Install_Toolkit.desktop
 ```
 
 В начале выберите:
