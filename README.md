@@ -134,7 +134,7 @@ Extract it anywhere on the Steam Deck. The installer is portable and does **not*
 Switch to **Desktop Mode** and launch:
 
 ```text
-Запустить_Skyrim_Deck_Setup.desktop
+Install_Toolkit.desktop
 ```
 
 Choose:
